@@ -8,7 +8,7 @@ import Script from "next/script"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "TMC AnKey - フラッシュカードアプリ",
+  title: "フラッシュカード",
   description: "AIがテキストからフラッシュカードを作成する暗記学習アプリ",
   icons: {
     icon: [
